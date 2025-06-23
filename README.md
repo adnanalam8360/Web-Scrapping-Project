@@ -77,3 +77,12 @@ Applied data wrangling techniques in both Python and Excel
 Created a professional-looking dashboard to tell a story from raw data
 
 Demonstrated ability to work across multiple tools and clean messy data efficiently
+
+# 📁 Repository Structure
+bangalore-Property-analysis/
+│
+├── real_estate.py                            # Web scraping script
+├── raw_scraped_data.csv                      # Initial scraped data
+├── cleaned_data.xlsx                         # Intermediate cleaned dataset
+├── Bangalore-magicbricks-clean-data.xlsx     # Final Excel dashboard file
+├── README.md                                 # Project description
